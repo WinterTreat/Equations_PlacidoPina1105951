@@ -1,0 +1,1 @@
+# Equations_PlacidoPina1105951
