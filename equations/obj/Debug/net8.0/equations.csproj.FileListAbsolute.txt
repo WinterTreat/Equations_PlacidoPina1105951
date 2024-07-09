@@ -1,0 +1,12 @@
+C:\Users\WinterTreat\Desktop\Prueba\Equations_PlacidoPina1105951\equations\obj\Debug\net8.0\equations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WinterTreat\Desktop\Prueba\Equations_PlacidoPina1105951\equations\obj\Debug\net8.0\equations.AssemblyInfoInputs.cache
+C:\Users\WinterTreat\Desktop\Prueba\Equations_PlacidoPina1105951\equations\obj\Debug\net8.0\equations.AssemblyInfo.cs
+C:\Users\WinterTreat\Desktop\Prueba\Equations_PlacidoPina1105951\equations\obj\Debug\net8.0\equations.csproj.CoreCompileInputs.cache
+C:\Users\WinterTreat\Desktop\Prueba\Equations_PlacidoPina1105951\equations\obj\Debug\net8.0\equations.sourcelink.json
+C:\Users\WinterTreat\Desktop\Prueba\Equations_PlacidoPina1105951\equations\bin\Debug\net8.0\equations.deps.json
+C:\Users\WinterTreat\Desktop\Prueba\Equations_PlacidoPina1105951\equations\bin\Debug\net8.0\equations.dll
+C:\Users\WinterTreat\Desktop\Prueba\Equations_PlacidoPina1105951\equations\bin\Debug\net8.0\equations.pdb
+C:\Users\WinterTreat\Desktop\Prueba\Equations_PlacidoPina1105951\equations\obj\Debug\net8.0\equations.dll
+C:\Users\WinterTreat\Desktop\Prueba\Equations_PlacidoPina1105951\equations\obj\Debug\net8.0\refint\equations.dll
+C:\Users\WinterTreat\Desktop\Prueba\Equations_PlacidoPina1105951\equations\obj\Debug\net8.0\equations.pdb
+C:\Users\WinterTreat\Desktop\Prueba\Equations_PlacidoPina1105951\equations\obj\Debug\net8.0\ref\equations.dll
